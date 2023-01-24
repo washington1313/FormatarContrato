@@ -1,0 +1,8 @@
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\FormatarContrato\FormatarContrato\bin\Debug\FormatarContrato.exe.config
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\FormatarContrato\FormatarContrato\bin\Debug\FormatarContrato.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\FormatarContrato\FormatarContrato\bin\Debug\FormatarContrato.pdb
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\FormatarContrato\FormatarContrato\obj\Debug\FormatarContrato.csproj.AssemblyReference.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\FormatarContrato\FormatarContrato\obj\Debug\FormatarContrato.csproj.SuggestedBindingRedirects.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\FormatarContrato\FormatarContrato\obj\Debug\FormatarContrato.csproj.CoreCompileInputs.cache
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\FormatarContrato\FormatarContrato\obj\Debug\FormatarContrato.exe
+C:\Users\wmfbh\OneDrive\Documentos\Estudo\VS aplicações\FormatarContrato\FormatarContrato\obj\Debug\FormatarContrato.pdb
